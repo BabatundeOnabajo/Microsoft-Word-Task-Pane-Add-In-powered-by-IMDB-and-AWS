@@ -3,9 +3,9 @@
 # Introduction
 This is an add-in for Microsoft Word that utilises information from IMDB and is powered by Amazon Web Services (AWS). An add-in is code that extends the functionality of Microsoft Word in some way. 
 
-# Instructions
-
 # Requirements
+
+# Instructions
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
