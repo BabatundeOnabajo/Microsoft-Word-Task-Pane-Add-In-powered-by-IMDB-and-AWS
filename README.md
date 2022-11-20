@@ -1,4 +1,5 @@
-**## Microsoft-Word-Task-Pane-Add-In-powered-by-IMDB-and-AWS**
+## Microsoft-Word-Task-Pane-Add-In-powered-by-IMDB-and-AWS
+
 # Introduction
 This is an add-in for Microsoft Word that utilises information from IMDB and is powered by Amazon Web Services (AWS).
 
