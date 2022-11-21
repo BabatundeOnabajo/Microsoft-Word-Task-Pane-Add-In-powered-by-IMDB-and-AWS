@@ -5,7 +5,7 @@ This is an add-in for Microsoft Word that utilises information from IMDB and is 
 
 # Requirements
 In order to utilise this code, you will need to have the following:
-* Internet Access
+* Internet access
 * Microsoft Word (2013 version or later for Windows/2016 version or later for Mac/Word web version). 
 * 
 
