@@ -10,6 +10,8 @@ In order to utilise this code, you will need to have the following:
 * 
 
 # Instructions
+To use this add-in, it is helpful to follow the instructions below:
+
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
