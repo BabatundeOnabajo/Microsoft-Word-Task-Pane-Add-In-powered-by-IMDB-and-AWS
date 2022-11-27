@@ -3,6 +3,8 @@
 # Introduction
 This is an add-in for Microsoft Word that utilises information from IMDB and is powered by Amazon Web Services (AWS). An add-in is code that extends the functionality of Microsoft Word, and other Office Applications such as Microsoft PowerPoint, in some way. The core functionality of the add-in is built using JavaScript (nodeJS) with the assistance of the Yeoman Generator. 
 
+# Technical Architecture in Diagrammatic Form
+
 # Requirements
 In order to utilise this code, you will need to have the following:
 ## Windows
