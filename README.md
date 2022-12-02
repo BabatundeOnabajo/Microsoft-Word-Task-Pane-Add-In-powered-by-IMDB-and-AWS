@@ -15,7 +15,6 @@ In order to utilise this code, you will need to have the following:
 
 ## Mac
 
-
 # Instructions
 It is not necessary to have an API key for this section. To use this add-in, it is helpful to follow the instructions below depending upon what system you are using:
 
@@ -23,6 +22,12 @@ It is not necessary to have an API key for this section. To use this add-in, it 
 
 
 ## Mac
+
+# Before Add-In And After Add-In
+#### Before
+Prior to the installation of this add-in, your Microsoft Word space should look like below:
+
+
 
 # Potential Applications
 There are many potential applications of this add-in.
