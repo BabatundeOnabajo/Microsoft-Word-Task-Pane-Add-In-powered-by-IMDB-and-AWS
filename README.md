@@ -1,7 +1,7 @@
 ## Microsoft-Word-Task-Pane-Add-In-powered-by-IMDB-and-AWS
 
 # Introduction
-This is an add-in for Microsoft Word that utilises information from [IMDB](https://www.imdb.com/) and is powered by Amazon Web Services (AWS). An add-in is code that extends the functionality of Microsoft Word, and other Office Applications such as Microsoft PowerPoint, in some way. The core functionality of the add-in is built using JavaScript (nodeJS) with the assistance of the Yeoman Generator, together with HTML and CSS. With this add-in, you can access information relating to movies from the comfort of Microsoft Word. 
+This is an add-in for Microsoft Word that utilises information from [IMDB](https://www.imdb.com/) and is powered by Amazon Web Services (AWS). An add-in is code that extends the functionality of Microsoft Word, and other Office Applications such as Microsoft PowerPoint, in some way. The core functionality of the add-in is built using JavaScript (nodeJS) with the assistance of the Yeoman Generator (affectionally called "Yo Office" by the team at Microsoft), together with HTML and CSS. With this add-in, you can access information relating to movies from the comfort of Microsoft Word. 
 
 Prior to the creation of this repository, IMDB did not have a presence on Microsoft's AppSource, a platform where add-ins can be uploaded and downloaded, which is unfortunate given that other similar organisations (e.g. Wikipedia) do. This repository hopes to fill in what some might consider to be an egregious gap.
 
