@@ -32,7 +32,7 @@ Aftee the installation of this add-in, your Microsoft Word space should look lik
 
 
 # Potential Applications
-There are many potential applications of this add-in.
+There are many potential applications and use cases of this add-in.
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
