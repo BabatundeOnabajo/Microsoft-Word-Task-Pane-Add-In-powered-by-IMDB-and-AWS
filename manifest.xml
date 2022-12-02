@@ -11,6 +11,8 @@
   <SupportUrl DefaultValue="https://github.com/BabatundeOnabajo/Microsoft-Word-Task-Pane-Add-In-powered-by-IMDB-and-AWS"/>
   <AppDomains>
     <AppDomain>https://www.github.com</AppDomain>
+    <AppDomain>https://www.imdb.com</AppDomain>
+    <AppDomain>https://aws.amazon.com</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
