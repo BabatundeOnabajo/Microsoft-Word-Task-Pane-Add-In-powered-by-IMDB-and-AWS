@@ -34,6 +34,9 @@ Aftee the installation of this add-in, your Microsoft Word space should look lik
 # Potential Applications
 There are many potential applications and use cases of this add-in.
 
+# Further Information
+Additional information on using the add-in can be found here.
+
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
 
