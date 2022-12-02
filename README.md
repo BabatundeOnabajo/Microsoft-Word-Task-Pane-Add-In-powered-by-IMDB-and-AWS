@@ -3,6 +3,8 @@
 # Introduction
 This is an add-in for Microsoft Word that utilises information from [IMDB](https://www.imdb.com/) and is powered by Amazon Web Services (AWS). An add-in is code that extends the functionality of Microsoft Word, and other Office Applications such as Microsoft PowerPoint, in some way. The core functionality of the add-in is built using JavaScript (nodeJS) with the assistance of the Yeoman Generator, together with HTML and CSS. With this add-in, you can access information relating to movies from the comfort of Microsoft Word. 
 
+Prior to the creation of this repository, IMDB did not have a presence on Microsoft's AppSource, a platform where add-ins can be uploaded and downloaded, which is unfortunate given that other similar organisations (e.g. Wikipedia) do. This repository hopes to fill in what some might consider to be an egregious gap.
+
 # Technical Architecture in Diagrammatic Form
 
 # Requirements
@@ -15,13 +17,15 @@ In order to utilise this code, you will need to have the following:
 
 
 # Instructions
-It is not necessary to have an API key for this section. To use this add-in, it is helpful to follow the instructions below:
+It is not necessary to have an API key for this section. To use this add-in, it is helpful to follow the instructions below depending upon what system you are using:
 
 ## Windows
 
 
 ## Mac
 
+# Potential Applications
+There are many potential applications of this add-in.
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
