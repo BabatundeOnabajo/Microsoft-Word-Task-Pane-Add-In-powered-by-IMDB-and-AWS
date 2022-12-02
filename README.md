@@ -33,10 +33,10 @@ Aftee the installation of this add-in, your Microsoft Word space should look lik
 
 
 # Potential Applications
-There are many potential applications and use cases of this add-in.
+There are many potential applications and use cases of this add-in. One use case is a student in media studies or sociology who is writing a paper and needs instant information to a film which IMDB will likely have information on. Another use case is a journalist who is writing an article about a film and is stretched for time uses the add-in as opposed to having to look up the information on the internet. 
 
 # Further Information
-Additional information on using the add-in can be found here.
+Additional information on using the add-in can be found here on YouTube.
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
