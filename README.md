@@ -27,6 +27,8 @@ It is not necessary to have an API key for this section. To use this add-in, it 
 #### Before
 Prior to the installation of this add-in, your Microsoft Word space should look like below:
 
+#### After
+Aftee the installation of this add-in, your Microsoft Word space should look like below:
 
 
 # Potential Applications
