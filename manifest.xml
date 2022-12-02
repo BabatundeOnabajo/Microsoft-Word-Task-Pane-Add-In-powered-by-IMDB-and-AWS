@@ -4,13 +4,13 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Microsoft Word Add-In For IMDB"/>
-  <Description DefaultValue="A template to get started."/>
+  <DisplayName DefaultValue="IMDB Add-In for Microsoft Word"/>
+  <Description DefaultValue="Get information about movies and games from the comfort of Microsoft Word - powered by IMDB and Amazon Web Services"/>
   <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <SupportUrl DefaultValue="https://github.com/BabatundeOnabajo/Microsoft-Word-Task-Pane-Add-In-powered-by-IMDB-and-AWS"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://www.github.com</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
@@ -72,13 +72,13 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>
+        <bt:String id="GetStarted.Title" DefaultValue="Get started with the IMDB add-in for Microsoft Word!"/>
         <bt:String id="CommandsGroup.Label" DefaultValue="Commands Group"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="Show Taskpane"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="GetStarted.Description" DefaultValue="Your sample add-in loaded succesfully. Go to the HOME tab and click the 'Show Taskpane' button to get started."/>
-        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Click to Show a Taskpane"/>
+        <bt:String id="GetStarted.Description" DefaultValue="The IMDB add-in for Microsoft Word loaded succesfully. Go to the HOME tab and click the 'Show Taskpane' button to get started."/>
+        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Click to Show the Taskpane."/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
