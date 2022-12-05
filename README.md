@@ -13,9 +13,17 @@ In order to utilise this code, you will need to have the following:
 * Internet access
 * Microsoft Word (2016 version or later)
 
+#### Download from Github
+
+#### Start with installing Node.js and Yo Office
+
 ## Mac
 * Internet access
 * Microsoft Word (2016 version or later)
+
+#### Download from Github
+
+#### Start with installing Node.js and Yo Office
 
 # Instructions
 It is not necessary to have an API key for this section. To use this add-in, it is helpful to follow the instructions below depending upon what system you are using:
